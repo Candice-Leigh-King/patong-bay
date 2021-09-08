@@ -173,8 +173,8 @@ img
   height: auto;
   }
 
-.bg-tilt-left{background: linear-gradient(131deg,#FCB248 62%,rgb(0,0,0) 0%);}
-.bg-tilt-right {background: linear-gradient(137deg,rgb(0,0,0) 45%,#FCB248 9%);}
+.bg-tilt-left{background: linear-gradient(131deg,#FCB248 66%,rgb(0,0,0) 0%);}
+.bg-tilt-right {background: linear-gradient(137deg,rgb(0,0,0) 40%,#FCB248 9%);}
 
 .iconify {font-size: 1rem;}
 
