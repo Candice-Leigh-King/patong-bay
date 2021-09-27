@@ -2,7 +2,7 @@
 
 FONTS
 font-family: 'Comfortaa', cursive;
-
+font-family: 'Koh Santepheap', cursive;
 COLORS
 #FCB248
 rgb(0,0,0);
@@ -60,7 +60,10 @@ body
  .margin-top {margin-top: 7px;}
  .margin-top-1 {margin-top: 5px;}
 
- h1{}
+ h1{font-family: 'Koh Santepheap', cursive;
+    font-size: 10rem;
+    font-weight: lighter;
+    letter-spacing: -23px;}
  h2{}
  h3
  {
